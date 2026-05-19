@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
@@ -30,4 +31,16 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->

@@ -43,4 +43,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0228-summary-ranges](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0228-summary-ranges/) | Easy |
 <!---LeetCode Topics End-->

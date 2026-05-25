@@ -46,5 +46,14 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 | [0228-summary-ranges](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0228-summary-ranges/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

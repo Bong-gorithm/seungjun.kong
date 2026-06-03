@@ -54,6 +54,7 @@ Contains topicwise list of solved problems.
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
 | [0228-summary-ranges](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0228-summary-ranges/) | Easy |
+| [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Hard/0010-regular-expression-matching/) | Hard |
+| [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -10,6 +10,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
+| [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Contains topicwise list of solved problems.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
+| [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/1020-number-of-enclaves/) | Medium |
 ## String
@@ -121,6 +123,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -18,7 +18,6 @@ class Solution:
             
             oper_i = (oper_i + 1) % 4
 
-        print(stack)
         output = stack[0]
         for i in range(1, len(stack)):
             if stack[i] == '+':

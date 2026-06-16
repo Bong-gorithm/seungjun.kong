@@ -66,6 +66,7 @@ Contains topicwise list of solved problems.
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
@@ -113,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,16 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->

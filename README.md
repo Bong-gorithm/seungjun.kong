@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 | [0155-min-stack](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
+| [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
+| [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 <!---LeetCode Topics End-->

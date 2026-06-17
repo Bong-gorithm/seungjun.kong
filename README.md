@@ -145,6 +145,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0263-ugly-number/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

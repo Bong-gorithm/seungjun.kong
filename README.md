@@ -62,6 +62,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
@@ -117,6 +118,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Hard/0010-regular-expression-matching/) | Hard |
+| [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -128,6 +130,7 @@ Contains topicwise list of solved problems.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
 ## Simulation

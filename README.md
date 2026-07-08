@@ -85,6 +85,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Graph Theory
@@ -158,6 +160,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0263-ugly-number/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Backtracking
@@ -167,6 +170,7 @@ Contains topicwise list of solved problems.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |

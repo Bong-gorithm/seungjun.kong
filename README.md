@@ -46,12 +46,14 @@ Contains topicwise list of solved problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Medium/0086-partition-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Hard/0042-trapping-rain-water/) | Hard |
+| [0086-partition-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Medium/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0283-move-zeroes/) | Easy |
 ## Recursion

@@ -124,6 +124,7 @@ Contains topicwise list of solved problems.
 | [0010-regular-expression-matching](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Hard/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Hard/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -156,11 +157,13 @@ Contains topicwise list of solved problems.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0263-ugly-number/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Backtracking

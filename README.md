@@ -12,6 +12,7 @@ Contains topicwise list of solved problems.
 | [0155-min-stack](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0739-daily-temperatures/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Contains topicwise list of solved problems.
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0739-daily-temperatures/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/1020-number-of-enclaves/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -189,4 +191,5 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Hard/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->

@@ -73,6 +73,7 @@ Contains topicwise list of solved problems.
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0228-summary-ranges](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
@@ -92,12 +93,14 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
+| [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
+| [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ Contains topicwise list of solved problems.
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
@@ -179,6 +183,7 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

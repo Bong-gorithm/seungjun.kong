@@ -82,6 +82,7 @@ Contains topicwise list of solved problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0739-daily-temperatures/) | Medium |
@@ -148,12 +149,14 @@ Contains topicwise list of solved problems.
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +212,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 <!---LeetCode Topics End-->

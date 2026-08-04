@@ -95,6 +95,7 @@ Contains topicwise list of solved problems.
 | [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
+| [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Trie
@@ -184,11 +185,13 @@ Contains topicwise list of solved problems.
 | [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0263-ugly-number/) | Easy |
+| [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
+| [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

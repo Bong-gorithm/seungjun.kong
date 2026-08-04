@@ -9,6 +9,7 @@ class Solution:
                     answer.append(express)
                 return
 
+            # 남은 숫자의 모든 경우 선택
             for i in range(idx, length):
                 number_str = num[idx:i + 1] # 남은 숫자
 

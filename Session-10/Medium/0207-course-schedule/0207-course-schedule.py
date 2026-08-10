@@ -28,4 +28,40 @@ class Solution:
                 return False
         
         return True
+
+        """
+        graph = [[] for _ in range(numCourses)]
+        for a, b in prerequisites:
+            graph[a].append(b)
+        
+        traced = set()
+        visited = set()
+
+        def dfs(i):
+            # 사이클
+            if i in traced:
+                return False
+            # 이미 방문했던 노드
+            if i in visited:
+                return True
+            
+            traced.add(i)
+            for y in graph[i]:
+                if not dfs(y):
+                    return False
+            
+            # 탐색 종료후 순환 노드 삭제
+            traced.remove(i)
+            # 탐색 종료 후 방문 노드 추가
+            visited.add(i)
+
+            return True
+        
+        # 순환 구조 판별
+        for x in list(graph):
+            if not dfs(x):
+                return False
+        
+        return True
+        """
         

@@ -72,6 +72,7 @@ Contains topicwise list of solved problems.
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
@@ -159,6 +160,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0135-candy/) | Hard |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |

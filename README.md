@@ -81,6 +81,7 @@ Contains topicwise list of solved problems.
 | [0313-super-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0403-frog-jump](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0403-frog-jump/) | Hard |
 | [0414-third-maximum-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Easy/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
@@ -148,6 +149,7 @@ Contains topicwise list of solved problems.
 | [0313-super-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0403-frog-jump](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0403-frog-jump/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |

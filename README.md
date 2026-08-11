@@ -77,6 +77,7 @@ Contains topicwise list of solved problems.
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0228-summary-ranges](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0283-move-zeroes/) | Easy |
+| [0313-super-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0414-third-maximum-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Easy/0414-third-maximum-number/) | Easy |
@@ -143,6 +144,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
+| [0313-super-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
@@ -190,6 +192,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0263-ugly-number/) | Easy |
 | [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
+| [0313-super-ugly-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0313-super-ugly-number/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

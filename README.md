@@ -93,6 +93,7 @@ Contains topicwise list of solved problems.
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0739-daily-temperatures/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/1020-number-of-enclaves/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +250,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->

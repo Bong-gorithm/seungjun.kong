@@ -27,6 +27,7 @@ Contains topicwise list of solved problems.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0079-word-search/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -70,6 +71,7 @@ Contains topicwise list of solved problems.
 | [0042-trapping-rain-water](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Hard/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
+| [0079-word-search](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0118-pascals-triangle/) | Easy |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0135-candy/) | Hard |
@@ -98,6 +100,7 @@ Contains topicwise list of solved problems.
 | [0010-regular-expression-matching](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Easy/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
@@ -131,6 +134,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
@@ -204,6 +208,7 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0212-word-search-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Hard/0282-expression-add-operators/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |

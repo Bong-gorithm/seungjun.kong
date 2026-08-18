@@ -86,6 +86,7 @@ Contains topicwise list of solved problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/0526-beautiful-arrangement/) | Medium |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0733-flood-fill/) | Easy |
@@ -157,6 +158,7 @@ Contains topicwise list of solved problems.
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ Contains topicwise list of solved problems.
 | [0135-candy](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Hard/0135-candy/) | Hard |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Easy/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -217,6 +220,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Easy/0414-third-maximum-number/) | Easy |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,9 +233,14 @@ Contains topicwise list of solved problems.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0659-split-array-into-consecutive-subsequences/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-10/Medium/0207-course-schedule/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->

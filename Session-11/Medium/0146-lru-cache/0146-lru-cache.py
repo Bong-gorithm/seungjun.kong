@@ -13,7 +13,7 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key in self.dict:
-            self.dict.pop(key)
+            self.dict.pop(key) # 기존에 있는 값 갱신
         
         self.dict[key] = value
         if len(self.dict) > self.size:

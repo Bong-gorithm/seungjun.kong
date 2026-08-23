@@ -70,6 +70,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-2/Easy/0014-longest-common-prefix/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Hard/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0055-jump-game/) | Medium |
@@ -257,6 +258,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |

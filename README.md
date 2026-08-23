@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Hard/0295-find-median-from-data-stream/) | Hard |
@@ -53,6 +54,7 @@ Contains topicwise list of solved problems.
 | [0086-partition-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-7/Medium/0086-partition-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-6/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-1/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0146-lru-cache/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0146-lru-cache/) | Medium |
 | [0409-longest-palindrome](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-3/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-8/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0621-task-scheduler/) | Medium |
@@ -268,4 +271,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Hard/0295-find-median-from-data-stream/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->

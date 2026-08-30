@@ -102,6 +102,7 @@ Contains topicwise list of solved problems.
 | [1004-max-consecutive-ones-iii](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-11/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-4/Medium/1020-number-of-enclaves/) | Medium |
 | [1094-car-pooling](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-12/Medium/1094-car-pooling/) | Medium |
+| [1583-count-unhappy-friends](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-13/Medium/1583-count-unhappy-friends/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ Contains topicwise list of solved problems.
 | [0682-baseball-game](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Easy/0682-baseball-game/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-5/Medium/1006-clumsy-factorial/) | Medium |
 | [1094-car-pooling](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-12/Medium/1094-car-pooling/) | Medium |
+| [1583-count-unhappy-friends](https://github.com/Bong-gorithm/seungjun.kong/tree/main/Session-13/Medium/1583-count-unhappy-friends/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
